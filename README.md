@@ -1,2 +1,7 @@
 # SIMPLE-AUTH
-SIMPLE user auth service
+SIMPLE user authorization service
+
+## Support 3rd party
+- Google+
+- Facebook
+- Twitter
